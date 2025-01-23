@@ -1,0 +1,16 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/(public)/user/register/page": "app/(public)/user/register/page.js",
+  "/(public)/author/page": "app/(public)/author/page.js",
+  "/page": "app/page.js",
+  "/(public)/user/signin/page": "app/(public)/user/signin/page.js",
+  "/(protected)/tic-tac-toe/page": "app/(protected)/tic-tac-toe/page.js",
+  "/(protected)/tic-tac-toe/history/page": "app/(protected)/tic-tac-toe/history/page.js",
+  "/(protected)/tic-tac-toe/settings/page": "app/(protected)/tic-tac-toe/settings/page.js",
+  "/(protected)/tic-tac-toe/game/[id]/page": "app/(protected)/tic-tac-toe/game/[id]/page.js",
+  "/(protected)/user/changepassword/page": "app/(protected)/user/changepassword/page.js",
+  "/(protected)/user/articles/page": "app/(protected)/user/articles/page.js",
+  "/(protected)/user/profile/page": "app/(protected)/user/profile/page.js",
+  "/(protected)/user/signout/page": "app/(protected)/user/signout/page.js"
+}
