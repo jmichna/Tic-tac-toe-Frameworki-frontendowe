@@ -38,3 +38,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 ## Link to Vercel
 
 https://tic-tac-toe-frameworki-frontendowe.vercel.app
+
+## Login to account
+
+Just create new account, or login using this passes:
+Email: admin@wsei.edu.pl
+Password: 123456
